@@ -2,3 +2,13 @@
   margin: 0;
   padding: 0;
 }
+
+.formcontainer {
+  width: 80%;
+  margin: 0 auto;
+
+  form {
+    display: grid;
+    width: 100%;
+  }
+}
